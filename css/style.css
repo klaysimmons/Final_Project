@@ -1,0 +1,224 @@
+/* Google Fonts
+font-family: 'Bungee', cursive;
+font-family: 'Codystar', cursive;
+font-family: 'Press Start 2P', cursive;*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#dragon {
+   
+}
+.navhead {
+    background-color: black;
+    padding: 10px;
+    width: 100%;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    padding: 10;
+}
+nav ul {
+    list-style-type: none;
+}
+.navbar {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+    position: relative;
+
+}
+
+nav a::after {
+    content:'';
+    display: block;
+    height: 5px;
+    width: 0;
+    background-color: #FF8300;
+    position: absolute;
+    bottom: -10px;
+    
+}
+
+nav a:hover::after {
+    width: 100%;
+    transition: ease-in-out 250ms;
+}
+a.navbar:hover {
+    color: chartreuse;
+}
+
+.body_black {
+    background-color: black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 20px
+    
+    
+}
+
+.body_under {
+    background-color:black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 20px
+}
+.what_is {
+    display: inline-block;
+
+}
+
+.paracosm_party {
+    color: chartreuse; 
+    margin-left: 15px;
+    display:inline-block;
+}
+
+.small_p {
+    padding-top: 20px;
+}
+
+.para {
+    color: #FF8300;
+    display: inline-block;
+} 
+
+#wall_bean_green {
+    float: left;
+    margin-left: 20px;
+}
+.detailed {
+    display:inline-block; 
+
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.text_right {
+    height: 250 px;
+    background-color: white;
+    width: 40%;
+    display: inline;
+    float: right;
+    color:black;
+    margin-right: 150px;
+    padding: 30px;
+    margin-top: 150px;
+    box-shadow:10px 15px 0px 1px #E6B726  ;
+}
+
+#phly1 {
+    position: absolute;
+    margin-top: 25px;
+    right: 400px;
+}
+
+#phly_green {
+    position: absolute;
+    margin-top: 70px;
+    right: 600px;
+}
+
+#phly_purple {
+    position: absolute;
+    margin-top: 70px;
+    right: 200px;
+}
+
+#phly_yellow {
+    position: absolute;
+    margin-top: 30px;
+    right: 800px;
+}
+
+#phly_red {
+    position: absolute;
+    margin-top: 140px;
+    right: 930px;
+}
+
+#phly_pink {
+    position: absolute;
+    margin-top: 160px;
+    right: 80px;
+}
+
+#ladder {
+    position: absolute;
+    margin-top: 259px;
+    right: 74px;
+}
+
+.body_extended {
+    background-color: black;
+    height: 1000px;
+}
+
+#green_cloud {
+    margin-left: 400px;
+}
+
+.second_text {
+    height: 250 px;
+    background-color: white;
+    width: 40%;
+    display: inline;
+    float: left;
+    color:black;
+    margin-left: 100px;
+    padding: 30px;
+    margin-top: 20px;
+    box-shadow:10px 15px 0px 1px #E6B726;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+.exist {
+    font-family: 'Codystar', cursive;
+    color: red;
+    font-size: 50px;
+    margin-right: 200px;
+    float: right;
+    margin-top: 25px;
+    display: inline;
+    font-weight: 400;
+    text-shadow: 1px 5px 6px chartreuse;
+}
+
+#phly_pink2 {
+    position: absolute;
+    margin-top: 60px;
+    left: 80px;
+}
+
+#phly_cyan {
+    position: absolute;
+    margin-top: 180px;
+    left: 300px;
+}
+
+#cheese {
+    position: absolute;
+    margin-top: 257px;
+    left: 80px;
+}
