@@ -222,3 +222,90 @@ a.navbar:hover {
     margin-top: 257px;
     left: 80px;
 }
+
+.bean_body {
+    background-color: black;
+}
+
+.white_bg {
+    background-color: white;
+    height: 250px;
+}
+
+
+.beans_h1 {
+    width: 60%;
+    display: inline;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right:50px;
+    float: left;
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+
+}
+
+.bp {
+    width: 40%;
+    display: inline;
+    height: 200px;
+    float: right;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.paintings_body {
+    background-color: black;
+}
+
+.paintings_h1 {
+    width: 60%;
+    display: inline;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right:50px;
+    float: left;
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+
+}
+
+.pp {
+    width: 40%;
+    display: inline;
+    height: 200px;
+    float: right;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+div.gallery:hover {
+    border: 5px solid #061806 ;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
+
+  .div_fix {
+      float: left;
+  }
