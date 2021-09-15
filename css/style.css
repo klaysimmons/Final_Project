@@ -171,7 +171,7 @@ a.navbar:hover {
 
 .body_extended {
     background-color: black;
-    height: 1000px;
+    
 }
 
 #green_cloud {
@@ -195,7 +195,7 @@ a.navbar:hover {
 
 .exist {
     font-family: 'Codystar', cursive;
-    color: red;
+    color: chartreuse;
     font-size: 50px;
     margin-right: 200px;
     float: right;
@@ -203,6 +203,13 @@ a.navbar:hover {
     display: inline;
     font-weight: 400;
     text-shadow: 1px 5px 6px chartreuse;
+}
+
+#green_beans {
+    position: absolute;
+    margin-top: 55px;
+    right: 80px;
+    
 }
 
 #phly_pink2 {
@@ -309,3 +316,161 @@ div.gallery:hover {
   .div_fix {
       float: left;
   }
+
+  .footer_text {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+  }
+
+.icons {
+    float: left;
+    display: inline;
+    width: 33.33%;
+    text-decoration: none;
+    padding-left: 60px;
+    
+}
+
+.icons1 {
+    float: right;
+    display: inline;
+    width: 33.33%;
+    text-decoration: none;
+    padding-left: 50px;
+    
+}
+
+
+#twitter {
+    font-family: 'Press Start 2P', cursive;
+    color: #0CCADB;
+    margin-left: 90px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#instagram {
+    font-family: 'Press Start 2P', cursive;
+    color: #E246D1;
+    margin-left: 90px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#opensea {
+    font-family: 'Press Start 2P', cursive;
+    color: #5DD229;
+    margin-left: 90px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.socials {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+}
+
+
+.dragon_div {
+    background-color: white;
+}
+
+.index_body {
+    background-color: black;
+}
+
+.contact_head {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 250px;
+    left: 150px;
+
+}
+
+.contact_body {
+    background-color: black;
+}
+
+#forest_wall {
+    float: left;
+
+   
+}
+
+.box {
+    border: 2px solid blue;
+}
+
+.come_along {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 300px;
+    right: 550px;
+    font-size: 50px;
+}
+.break {
+    height: 150px;
+}
+
+#name {
+    font-family: 'Press Start 2P', cursive;
+    color:black;
+    display: block;
+    margin-left: 200px;
+}
+
+#namel {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-left: 200px;
+}
+
+#emaill {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-left: 200px;
+}
+
+#email {
+    font-family: 'Press Start 2P', cursive;
+    color:black;
+    display: block;
+    margin-left: 200px;
+}
+
+#inquiryl {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-left: 200px;
+}
+
+#inquiry {
+    font-family: 'Press Start 2P', cursive;
+    color:black;
+    display: block;
+    margin-left: 200px;
+}
+
+
+.request {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+}
+
+.inquire {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+}
+
+#flower {
+    float: right;
+    margin-right: 300px;
+}
